@@ -1,5 +1,10 @@
 test3
 test4
+<<<<<<< HEAD
 coming after branching
 second attempt after branching
 third attempt after bracnhing
+=======
+branch test1
+branch test2
+>>>>>>> brnach1
